@@ -18,7 +18,7 @@
 use strict;
 use warnings;
 use lib 'lib';
-use Round qw(:all);
+use Math::Round qw(:all);
 use Getopt::Long;
 use Data::Dumper;
 
