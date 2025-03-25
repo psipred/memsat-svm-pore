@@ -9,6 +9,12 @@ All Trademarks and Registered Names are acknowledged in this document.
 THIS SOFTWARE MAY ONLY BE USED FOR NON-COMMERCIAL PURPOSES. PLEASE CONTACT
 THE AUTHOR IF YOU REQUIRE A LICENSE FOR COMMERCIAL USE.
 
+GET DATASET/MODELS
+==================
+
+Unpack the data/models to a models dir
+
+http://bioinfadmin.cs.ucl.ac.uk/downloads/memsat-svm/memsat-svm_pore_datasets.tar.gz
 
 Compiling MEMSAT-SVM
 ====================
